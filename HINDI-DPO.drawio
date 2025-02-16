@@ -1566,10 +1566,61 @@
           <mxGeometry x="540" y="1020" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ScjSaxh1NO3pRjsm08PC-7" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;dashed=1;container=0;fillColor=light-dark(#F0F0F0,#1F1F1F);fontColor=#333333;strokeColor=#999999;strokeWidth=2;" vertex="1" parent="StjtYfgh7xtBPqKnTnC2-1">
-          <mxGeometry x="204.54" y="1100" width="455.89" height="90" as="geometry" />
+          <mxGeometry x="204.54" y="1120" width="455.89" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ScjSaxh1NO3pRjsm08PC-8" value="&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 17.5px;&quot;&gt;Sort the above triplet based on score s1,s2,s3.&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="StjtYfgh7xtBPqKnTnC2-1">
-          <mxGeometry x="242.32999999999996" y="1130" width="388.1" height="30" as="geometry" />
+        <mxCell id="ScjSaxh1NO3pRjsm08PC-8" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Sort the Triplet based on score s&lt;sub&gt;1&lt;/sub&gt;,s&lt;sub&gt;2&lt;/sub&gt;,s&lt;sub&gt;3&lt;/sub&gt; and move them to bucket of easy,moderate and difficult sample&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="StjtYfgh7xtBPqKnTnC2-1">
+          <mxGeometry x="242.32999999999996" y="1150" width="388.1" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ScjSaxh1NO3pRjsm08PC-10" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;edgeStyle=elbowEdgeStyle;strokeColor=light-dark(#FF8000,#FFFFFF);" edge="1" parent="StjtYfgh7xtBPqKnTnC2-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="258.89" y="1050" as="sourcePoint" />
+            <mxPoint x="258.89" y="1107" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="259.0099999999999" y="1023.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ScjSaxh1NO3pRjsm08PC-13" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;edgeStyle=elbowEdgeStyle;strokeColor=light-dark(#FF8000,#FFFFFF);" edge="1" parent="StjtYfgh7xtBPqKnTnC2-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="427.33" y="1050" as="sourcePoint" />
+            <mxPoint x="427.33" y="1110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="427.4499999999999" y="1026.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ScjSaxh1NO3pRjsm08PC-14" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;edgeStyle=elbowEdgeStyle;strokeColor=light-dark(#FF8000,#FFFFFF);" edge="1" parent="StjtYfgh7xtBPqKnTnC2-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="597.78" y="1050" as="sourcePoint" />
+            <mxPoint x="597.78" y="1110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="597.8999999999999" y="1026.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ScjSaxh1NO3pRjsm08PC-15" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;dashed=1;container=0;fillColor=light-dark(#F0F0F0,#1F1F1F);fontColor=#333333;strokeColor=#999999;strokeWidth=2;" vertex="1" parent="StjtYfgh7xtBPqKnTnC2-1">
+          <mxGeometry x="208.41" y="1260" width="115.46" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ScjSaxh1NO3pRjsm08PC-16" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;dashed=1;container=0;fillColor=light-dark(#F0F0F0,#1F1F1F);fontColor=#333333;strokeColor=#999999;strokeWidth=2;" vertex="1" parent="StjtYfgh7xtBPqKnTnC2-1">
+          <mxGeometry x="376.84" y="1260" width="115.46" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ScjSaxh1NO3pRjsm08PC-17" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;dashed=1;container=0;fillColor=light-dark(#F0F0F0,#1F1F1F);fontColor=#333333;strokeColor=#999999;strokeWidth=2;" vertex="1" parent="StjtYfgh7xtBPqKnTnC2-1">
+          <mxGeometry x="541.0999999999999" y="1260" width="115.46" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ScjSaxh1NO3pRjsm08PC-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=3;strokeColor=#B3B3B3;" edge="1" parent="StjtYfgh7xtBPqKnTnC2-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="187.44000000000005" y="1230.1" as="sourcePoint" />
+            <mxPoint x="676.9" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ScjSaxh1NO3pRjsm08PC-19" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Bucket for easy samples&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;(Lowest value of s)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="StjtYfgh7xtBPqKnTnC2-1">
+          <mxGeometry x="220" y="1305" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ScjSaxh1NO3pRjsm08PC-20" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Bucket for Moderate samples&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;(Medium value of s)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="StjtYfgh7xtBPqKnTnC2-1">
+          <mxGeometry x="382.48" y="1305" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ScjSaxh1NO3pRjsm08PC-21" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Bucket for Hard samples&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;(Maximum&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;value of s)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="StjtYfgh7xtBPqKnTnC2-1">
+          <mxGeometry x="548.8299999999999" y="1305" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
