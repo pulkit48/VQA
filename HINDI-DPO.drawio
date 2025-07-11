@@ -1710,6 +1710,13 @@
         <mxCell id="7WQMIpu9n52ScE_Zdwa0-135" value="&lt;div style=&quot;line-height: 130%;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px; line-height: 130%;&quot; face=&quot;Verdana&quot;&gt;(C)&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Diversity Sampling&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1415.19" y="480" width="185" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7WQMIpu9n52ScE_Zdwa0-136" value="o" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="1190" y="520" as="sourcePoint" />
+            <mxPoint x="1270" y="520" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
